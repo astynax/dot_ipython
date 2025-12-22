@@ -1,0 +1,18 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+
+# profiles other than the default one
+/profile_*
+!/profile_default/
+/profile_default/*
+!/profile_default/startup/
+/profile_default/startup/*
+!/profile_default/startup/*.py
