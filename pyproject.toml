@@ -10,6 +10,8 @@ dependencies = [
     "icecream>=2.1.8",
     "pillow>=12.0.0",
     "typed-ffmpeg>=3.11",
+    "typer>=0.21.1",
+    "platformdirs>=4.9.6",
 ]
 requires-python = ">= 3.12"
 
